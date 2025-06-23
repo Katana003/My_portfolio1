@@ -356,7 +356,7 @@ footer a:focus {
     }
     
     .section:hover {
-        transform: none; /* Disable hover effects on mobile */
+        transform: none; 
     }
     
     .profile-pic {
@@ -375,7 +375,7 @@ footer a:focus {
     }
     
     .project-item:hover {
-        transform: none; /* Disable hover effects on mobile */
+        transform: none; 
     }
     
     .project-img {
@@ -385,7 +385,7 @@ footer a:focus {
     }
     
     .project-img:hover {
-        transform: none; /* Disable hover scaling on mobile */
+        transform: none; 
     }
     
     .skills-list {
@@ -399,10 +399,10 @@ footer a:focus {
     }
     
     .skills-list li:hover {
-        transform: none; /* Disable hover effects on mobile */
+        transform: none; 
     }
     
-    /* Form improvements for mobile */
+    
     .contact-form {
         gap: 1rem;
     }
@@ -415,7 +415,7 @@ footer a:focus {
     input[type="text"],
     input[type="email"],
     textarea {
-        font-size: 16px; /* Prevents zoom on iOS */
+        font-size: 16px; 
         padding: 1rem;
         border-radius: 6px;
     }

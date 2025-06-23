@@ -1,5 +1,5 @@
 
-// Corrected smooth scroll with header offset
+// smooth scroll with header offset
 
 document.querySelectorAll('nav a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function(e) {
